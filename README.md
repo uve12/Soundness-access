@@ -46,7 +46,7 @@ soundness-cli list-keys
 
 - Visit : https://discord.gg/dU3kSh9Grg
 - Goto testnet access
-- paste : !access <your-access-key>
+- paste : !access your-access-key
 
 ---
 
